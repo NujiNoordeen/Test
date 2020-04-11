@@ -1,2 +1,7 @@
 Hi!
 Welcome to github :)
+
+
+This is nuji;
+
+My first fie in github
